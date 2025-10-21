@@ -30,6 +30,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - Custom CSS
 - BEM Methodology
 
+### Useful resources
+
+- [Bem Methodology](https://en.bem.info/methodology/) - This helped me understand how to structure my CSS in a scalable and maintainable way. I really liked this naming convention because it keeps styles organized and avoids conflicts.
+- [CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries#targeting_media_features) - This article clarified how to make responsive designs by adapting layouts to different screen sizes. I now use them confidently for mobile-first development.
+
 ## Author
 
 - Website - [Ulises](https://www.your-site.com)
